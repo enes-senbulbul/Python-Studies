@@ -1,0 +1,20 @@
+# Jupyter Notebook Checkpoints (Bunları kesinlikle yükleme)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python Cache (Gereksiz derleme dosyaları)
+__pycache__/
+*.pyc
+
+# Sanal Ortamlar (İleride venv kurarsan diye)
+venv/
+env/
+.env
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE Ayarları (VS Code vb.)
+.vscode/
+.idea/
